@@ -187,11 +187,17 @@ Repositories include:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Navish7/Navish7/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 # 🎯 Career Goal
 
 My goal is to become a **Cloud Security Engineer or Backend Infrastructure Engineer** building **secure and scalable systems used by millions of users**.
 
 ---
+
 
 # 📡 Connect With Me
 
