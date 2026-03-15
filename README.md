@@ -162,6 +162,14 @@ Repositories include:
 
 ---
 
+## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Navish7/Navish7/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 # 📈 Activity Graph
 
 <p align="center">
@@ -186,11 +194,6 @@ Repositories include:
 • AI-assisted development workflows  
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-<p align="center">
-<img src="https://raw.githubusercontent.com/Navish7/Navish7/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 # 🎯 Career Goal
 
