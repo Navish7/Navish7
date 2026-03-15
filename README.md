@@ -1,7 +1,7 @@
 <!-- SPACE HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=220&section=header&text=Navish%20|%20Cloud%20%26%20Security%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Navish%20%7C%20Cloud%20Security%20Developer&fontSize=38&fontColor=ffffff&color=gradient&customColorList=12,20,30,5&animation=fadeIn"/>
 </p>
 
 <!-- AI TYPING ANIMATION -->
