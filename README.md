@@ -1,70 +1,94 @@
-<!-- Animated Header -->
+<!-- SPACE HEADER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Navish%20|%20Software%20Developer&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=220&section=header&text=Navish%20|%20Cloud%20%26%20Security%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- AI TYPING ANIMATION -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Software+Developer;Cybersecurity+Enthusiast;Backend+Developer;Cloud+Computing+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Software+Developer;Cloud+Computing+Engineer;Cybersecurity+Enthusiast;Building+Secure+Systems;Exploring+AI+and+Distributed+Systems"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Navish
+# 👨‍🚀 About Me
 
-🎓 Software Development Student at **Seneca College**  
-🔐 Aspiring **Cybersecurity Engineer**  
-💻 Passionate about **Backend Development, APIs, and Cloud Systems**  
-📍 Toronto, Canada  
+Hi! I'm **Navish**, a **Software Development student at Seneca College** passionate about building **secure cloud-native systems and intelligent backend architectures**.
 
-I enjoy building **secure backend systems, authentication APIs, and cloud-based applications**.  
-Currently improving my skills in **Python, C++, backend engineering, and security concepts**.
+I enjoy working at the intersection of:
+
+☁️ **Cloud Computing**  
+🔐 **Cybersecurity**  
+⚙️ **Backend Engineering**  
+🤖 **AI-powered systems**
+
+Currently exploring how to build **secure distributed systems using AWS and modern backend technologies**.
 
 ---
 
-# 🧑‍💻 Tech Stack
+# 🌌 Tech Stack
 
-### Languages
+## 🧠 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+---
+
+## ⚙️ Backend Development
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 
-### Cloud & DevOps
+---
+
+# ☁️ Cloud & AWS
+
+Hands-on experience building **cloud-native applications and microservices**.
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
+### AWS Services Used
+
+☁️ **ECS (Elastic Container Service)** – container orchestration  
+📦 **S3** – scalable object storage  
+⚡ **Lambda** – serverless computing  
+🗄 **DynamoDB** – NoSQL database  
+
+---
+
+# 🛰 DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-red?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🔐 Gatekeeper
+
 Secure Access Control System designed to simulate authentication and authorization.
 
-Repository  
+Repository
+
 https://github.com/BSD-Capstone-Project-2026/Gatekeeper
 
-Tech:
-- Python
-- Backend authentication
-- Security logic
+Concepts
+
+• Authentication systems  
+• Access control logic  
+• Backend security design  
 
 ---
 
 ## ☁️ Fragments (Cloud Microservice)
 
-Cloud-native service for storing and managing data fragments via APIs.
-
-Repositories
+A **cloud-native microservice architecture** designed for managing fragments of data.
 
 Backend  
 https://github.com/Navish7/fragments
@@ -72,60 +96,65 @@ https://github.com/Navish7/fragments
 Frontend  
 https://github.com/Navish7/fragments-ui
 
-Tech:
-- Node.js
-- REST APIs
-- Docker
-- Cloud architecture
+Tech
+
+• Node.js  
+• REST APIs  
+• Docker  
+• Cloud infrastructure  
 
 ---
 
 ## 🔑 User API
 
-Secure authentication API with user management.
+Backend authentication API demonstrating secure user management.
 
 Repository  
 https://github.com/Navish7/User-api
 
-Tech
-- REST API
-- Authentication
-- Backend security
+Features
+
+• Secure API design  
+• Authentication flows  
+• Backend architecture  
 
 ---
 
-# 📚 Academic Projects
+# 📚 Academic & Coursework Projects
 
-Repositories
+Projects from Seneca College covering:
 
-- Software-Project-Management
-- Webassignment
-- NavishWEBASSIGNMENT--1
-- project-1-Navish7
-- activity-1-Navish7
-- activity-2-Navish7
-- btp-500
-- labs-Navish7
+• Cloud Computing  
+• Software Engineering  
+• Web Development  
+• Backend Systems  
 
-These repositories include coursework covering:
+Repositories include:
 
-- Cloud Computing
-- Software Engineering
-- Web Development
-- Backend Systems
+- Software-Project-Management  
+- Webassignment  
+- NavishWEBASSIGNMENT--1  
+- project-1-Navish7  
+- activity-1-Navish7  
+- activity-2-Navish7  
+- btp-500  
+- labs-Navish7  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navish7&show_icons=true&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navish7&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navish7&theme=tokyonight"/>
@@ -133,7 +162,7 @@ These repositories include coursework covering:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navish7&theme=tokyo-night"/>
@@ -141,7 +170,7 @@ These repositories include coursework covering:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Navish7&theme=tokyonight&row=1&column=6"/>
@@ -149,28 +178,22 @@ These repositories include coursework covering:
 
 ---
 
-# 👀 Profile Views
+# 🧠 Currently Learning
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Navish7&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
----
-
-# 🎯 Career Focus
-
-I’m currently focused on building skills in:
-
-🔐 Cybersecurity  
-☁️ Cloud Infrastructure  
-⚙️ Backend Engineering  
-🧠 Data Structures & Algorithms
-
-My goal is to become a **Security Engineer or Backend Developer** building secure and scalable systems.
+• Cloud security  
+• Distributed system architecture  
+• Backend scalability  
+• AI-assisted development workflows  
 
 ---
 
-# 📫 Connect With Me
+# 🎯 Career Goal
+
+My goal is to become a **Cloud Security Engineer or Backend Infrastructure Engineer** building **secure and scalable systems used by millions of users**.
+
+---
+
+# 📡 Connect With Me
 
 GitHub  
 https://github.com/Navish7
@@ -179,8 +202,14 @@ LinkedIn
 https://www.linkedin.com/in/navishnavish/
 
 Email  
-navish.work@gmail.com
+Navish.work@gmail.com
 
 ---
 
-⭐ If you like my projects, feel free to star the repositories!
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Navish7&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+⭐ If you like my projects, feel free to **star the repositories**.
